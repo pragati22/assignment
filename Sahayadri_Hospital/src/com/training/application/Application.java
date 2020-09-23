@@ -14,8 +14,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		List<Doctor> doctorList = new ArrayList<>();
-		List<Doctor> patientList = new ArrayList<>();
+		
 		
 		
 		Scanner sc = new Scanner(System.in);
