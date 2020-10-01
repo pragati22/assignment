@@ -17,7 +17,7 @@ public class Book {
 		this.bookNumber = bookNumber;   //blue-arguments grey-parameters set
 		this.price = price;
 		this.bookName = bookName;
-		this.publisherName = publisherName;
+		this.publisherName = publisherName;		//publishername
 		this.authorName = authorName;
 	}
 
